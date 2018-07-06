@@ -1,0 +1,20 @@
+[Application]
+WindowPlacement=2 3 -32063 -32000 -1 -1 -2 175 685 731
+[Editor1]
+FileName=.\TP_compil_lex.l
+ReadOnly=0
+WindowPlacement1=0 1 0 630 -1 -1 0 -2 570 657
+WindowOrder1=2
+Position001=0 51
+Cursor001=0 1 19 52
+SyntaxColouring=1
+TargetSyntaxColouring=3
+[Editor2]
+FileName=.\TP_compil_yacc.y
+ReadOnly=0
+WindowPlacement1=0 1 0 646 -1 -1 620 -3 1294 668
+WindowOrder1=1
+Position001=0 142
+Cursor001=26 167 26 167
+SyntaxColouring=2
+TargetSyntaxColouring=3
